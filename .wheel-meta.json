@@ -1,0 +1,19 @@
+{
+  "wheel_id": 315,
+  "structure": "umbrella",
+  "slug": "retainingwallipswich-102",
+  "project": "retaining-walls-ipswich-costs-936630c866932aafe1e8984dd7be5098b",
+  "parent_t1_ref": "retainingwallipswich-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallipswich.com.au",
+  "primary_kw": "retaining walls ipswich costs",
+  "intended_url": "https://sitesau.github.io/retainingwallipswich-102/",
+  "writeback_nonce": "94eb12911b1e78ff",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-ipswich-f3e52eae224924c5eac3bec02d04090c65ddab1/",
+      "anchor": "retaining walls ipswich",
+      "rel": "follow"
+    }
+  ]
+}
